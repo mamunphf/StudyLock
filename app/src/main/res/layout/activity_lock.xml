@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:gravity="center" android:padding="24dp">
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="@string/lock_title" android:textSize="24sp" android:textStyle="bold" />
+    <TextView android:id="@+id/tvProgress" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="8dp" />
+    <TextView android:id="@+id/tvQuestion" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_marginVertical="24dp"
+        android:gravity="center" android:textSize="26sp" />
+
+    <Button android:id="@+id/opt1" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <Button android:id="@+id/opt2" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <Button android:id="@+id/opt3" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <Button android:id="@+id/opt4" android:layout_width="match_parent" android:layout_height="wrap_content" />
+
+    <TextView android:id="@+id/tvFeedback" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="12dp" android:textSize="16sp" />
+    <Button android:id="@+id/btnParent" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="24dp"
+        android:text="@string/parent_unlock"
+        style="@style/Widget.MaterialComponents.Button.TextButton" />
+</LinearLayout>

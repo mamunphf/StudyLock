@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Study Lock</string>
+    <string name="accessibility_desc">Detects when a locked app is opened so a study quiz can be shown first.</string>
+    <string name="parent_dashboard">Parent Dashboard</string>
+    <string name="status_on">✅ Protection is ON</string>
+    <string name="status_off">⚠️ Protection is OFF — enable Study Lock in Accessibility</string>
+    <string name="open_accessibility">Open Accessibility settings</string>
+    <string name="locked_count">Locked apps: %1$d</string>
+    <string name="choose_apps">Choose apps to lock</string>
+    <string name="label_minutes">Unlock time (minutes)</string>
+    <string name="label_questions">Correct answers needed</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="change_pin">Change parent PIN</string>
+    <string name="set_pin">Set a parent PIN (min 4 digits)</string>
+    <string name="enter_pin">Enter parent PIN</string>
+    <string name="wrong_pin">Wrong PIN</string>
+    <string name="pin_saved">PIN saved</string>
+    <string name="pin_short">PIN must be at least 4 digits</string>
+    <string name="lock_title">📚 Study to Unlock</string>
+    <string name="progress">Correct: %1$d / %2$d</string>
+    <string name="correct">✅ Correct!</string>
+    <string name="wrong">❌ Wrong, try this one</string>
+    <string name="unlocked">Unlocked for %1$d minutes</string>
+    <string name="parent_unlock">Parent unlock</string>
+</resources>

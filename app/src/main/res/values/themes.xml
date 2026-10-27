@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.StudyLock" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#1565C0</item>
+        <item name="colorSecondary">#43A047</item>
+    </style>
+    <style name="Theme.StudyLock.Lock" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1565C0</item>
+        <item name="colorSecondary">#43A047</item>
+    </style>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">স্টাডি লক</string>
+    <string name="accessibility_desc">লক করা অ্যাপ খুললে আগে পড়ার কুইজ দেখানোর জন্য এটি প্রয়োজন।</string>
+    <string name="parent_dashboard">অভিভাবক ড্যাশবোর্ড</string>
+    <string name="status_on">✅ সুরক্ষা চালু আছে</string>
+    <string name="status_off">⚠️ সুরক্ষা বন্ধ — Accessibility থেকে Study Lock চালু করুন</string>
+    <string name="open_accessibility">Accessibility সেটিংস খুলুন</string>
+    <string name="locked_count">লক করা অ্যাপ: %1$d</string>
+    <string name="choose_apps">লক করার অ্যাপ বেছে নিন</string>
+    <string name="label_minutes">আনলকের সময় (মিনিট)</string>
+    <string name="label_questions">কয়টি সঠিক উত্তর লাগবে</string>
+    <string name="save">সংরক্ষণ</string>
+    <string name="saved">সংরক্ষিত হয়েছে</string>
+    <string name="change_pin">অভিভাবক PIN পরিবর্তন</string>
+    <string name="set_pin">অভিভাবক PIN দিন (কমপক্ষে ৪ সংখ্যা)</string>
+    <string name="enter_pin">অভিভাবক PIN লিখুন</string>
+    <string name="wrong_pin">ভুল PIN</string>
+    <string name="pin_saved">PIN সংরক্ষিত হয়েছে</string>
+    <string name="pin_short">PIN কমপক্ষে ৪ সংখ্যার হতে হবে</string>
+    <string name="lock_title">📚 পড়ে আনলক করো</string>
+    <string name="progress">সঠিক: %1$d / %2$d</string>
+    <string name="correct">✅ সঠিক!</string>
+    <string name="wrong">❌ ভুল, এটা চেষ্টা করো</string>
+    <string name="unlocked">%1$d মিনিটের জন্য আনলক হলো</string>
+    <string name="parent_unlock">অভিভাবক আনলক</string>
+</resources>
